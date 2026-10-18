@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineer | 🐍 Python Developer | ⚙️ Systems Administrator
 
-🇳🇵 Software Engineer from Nepal with a background in enterprise IT support, system administration, and infrastructure management.
+ Software Engineer from Nepal with a background in enterprise IT support, system administration, and infrastructure management.
 
 🚀 I enjoy building practical software solutions, writing clean and maintainable code, and solving real-world problems through technology.
 
